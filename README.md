@@ -42,3 +42,5 @@ thai_housing_prediction_project/
 - Preprocessing: Basic one-hot encoding on categorical features
 
 ---
+
+here is a link to https://house-price-predictation-a5wbb2cwtwb9m67atjhrt4.streamlit.app 
